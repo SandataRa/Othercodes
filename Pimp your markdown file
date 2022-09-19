@@ -1,0 +1,42 @@
+Pimp your markdown file
+========================
+
+Take your **ReadMe.md** and other markdown files to another level. I love markdown files. The syntax makes it very easy to write well-structured documentations. I enjoy the minimalistic aspect of the file after it's rendered in the browser as well. Now, let me show you how you can get started with the right tools in less than 5 minutes. 
+
+Tools needed
+---------------
+
+- Sublime Text
+- Package Control *for installing additional packages in Sublime Text*
+- Markdown Preview *for generating a preview of your markdown file in the browser*
+- LiveReload *for refreshing on save action the preview in the browser*
+
+
+Installation
+----------
+
+1. Open Sublime Text and install [Package Control](https://packagecontrol.io/installation)
+2. Using the Package Control, install [Markdown Preview](https://packagecontrol.io/packages/MarkdownPreview)
+
+> `For Windows: Cntrl + Shift + p`  
+> `For Mac: Cmd + Shift + p`  
+> `Search: Package Control:Install Package`  
+> `Write Markdown Preview and hit enter`  
+
+3. Using the Package Control, install [LiveReload](https://packagecontrol.io/packages/LiveReload)
+
+> `For Windows: Cntrl + Shift + p`  
+> `For Mac: Cmd + Shift + p`  
+> `Search: Package Control:Install Package`  
+> `Write LiveReload and hit enter`  
+
+4. Restart your Sublime Text
+
+My favorite resources
+----------
+
+* [MarkdownGuide.org](https://www.markdownguide.org/basic-syntax/): my favorite website the syntax and examples
+* [Paperhive.org](https://paperhive.org/help/markdown): my short and sweet cheat sheet
+  
+----------
+*Sandata Consulting | 2022-09-18*

@@ -1,7 +1,7 @@
 About this repository
 ========================
 
-Find here all the scripts, codes and diverse technical projects outside data science and visualization I worked on. This is basically a big bucket full of different subjects I wanted to share with you. As usual, please feel free to comment and share your feedback.
+Find here all the scripts and diverse technical projects I worked on, outside data science and data visualization. This is basically a big bucket full of different subjects I wanted to share with you. As usual, please feel free to comment and share your feedback.
 
 Projects descriptions
 ---------------
